@@ -6,7 +6,7 @@
   
   </br>
 
-### Main Stack
+### 🛠 Main Stack 🛠
   
 <image src = https://user-images.githubusercontent.com/74063259/114020490-9bc25a80-98aa-11eb-974b-29370b788a64.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114018785-949a4d00-98a8-11eb-95bf-7ba8117d5815.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114020751-e5ab4080-98aa-11eb-86fe-9131d4df8a8b.png width = "50" height = "50">
 
@@ -24,18 +24,21 @@
 
   </br>
   
-### Contact me
+### 👋 Contact me 👋
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/G Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
     
  </br>
 </br>
 
   [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=yoon6763)](https://solved.ac/profile/yoon6763)
+  
+  </br>
+ 
+ [![yoon6763's github stats](https://github-readme-stats.vercel.app/api?username=yoon6763)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon6763&layout=compact)](https://github.com/yoon6763/github-readme-stats)
 
 </div>
-  </br>
 
-[![yoon6763's github stats](https://github-readme-stats.vercel.app/api?username=yoon6763)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon6763&layout=compact)](https://github.com/yoon6763/github-readme-stats)
+
 
 
 <!--
