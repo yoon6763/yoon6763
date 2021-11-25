@@ -8,19 +8,25 @@
 
 ### 🛠 Main Stack 🛠
   
-<image src = https://user-images.githubusercontent.com/74063259/114020490-9bc25a80-98aa-11eb-974b-29370b788a64.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114018785-949a4d00-98a8-11eb-95bf-7ba8117d5815.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114020751-e5ab4080-98aa-11eb-86fe-9131d4df8a8b.png width = "50" height = "50">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
   </br>
 
 ### Sub Stack
-  
-<image src = https://user-images.githubusercontent.com/74063259/114054287-b3114000-98ca-11eb-99ec-d3977d58928c.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114373024-2792fa00-9bbd-11eb-9656-e09c6047ce6e.png width = "50" height = "50"><image src = https://user-images.githubusercontent.com/74063259/114373091-39749d00-9bbd-11eb-9523-d9055e4b5628.png width = "50" height = "50">
+
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
   </br>
-  
+
+### Learning now
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
+
+</br>
+
 ### Tools
   
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
   </br>
   
