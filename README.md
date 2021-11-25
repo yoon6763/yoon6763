@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=20C997&height=250&section=header&text=Yoonho%20Jeon&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
-
 # Welcome to Yoon's GitHub.👋
 <div align="center">
   
