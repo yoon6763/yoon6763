@@ -35,8 +35,7 @@
  </br>
 </br>
 
-  [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=yoon6763)](https://solved.ac/profile/yoon6763)
-  
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={yoon6763})](https://solved.ac/yoon6763)
   </br>
  
  [![yoon6763's github stats](https://github-readme-stats.vercel.app/api?username=yoon6763)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon6763&layout=compact)](https://github.com/yoon6763/github-readme-stats)
