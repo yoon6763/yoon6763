@@ -3,7 +3,7 @@
   
   </br>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=a6d1e6&height=200&section=header&text=yoon6763&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4bd0b2&height=200&section=header&text=yoon6763&fontSize=45)
 
 
 ### 🛠 Main Stack
