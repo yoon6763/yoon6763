@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=4bd0b2&height=200&section=header&text=yoon6763&fontSize=45)
+
+
 # Welcome to Yoon's GitHub.👋
 <div align="left">
   
-  </br>
+</br>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=4bd0b2&height=200&section=header&text=yoon6763&fontSize=45)
 
 
 ### ❤️‍🔥 Main Stack
@@ -31,14 +33,14 @@
 </br></br>
   
 ### 👋 Contact
-<a href = "https://tricolor-package-3b1.notion.site/e8945c2458394c0984bbd55c74b5846f"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a><a href = "https://uknowblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eeeeee?style=flat-square&logo=tistory&logoColor=black"/></a>
+<a href = "https://tricolor-package-3b1.notion.site/e8945c2458394c0984bbd55c74b5846f"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> <a href = "https://uknowblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eeeeee?style=flat-square&logo=tistory&logoColor=black"/></a>
     
 </br>
 </br>
   
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6763)](https://solved.ac/yoon6763)
   
-  </br>
+</br>
  
  [![yoon6763's github stats](https://github-readme-stats.vercel.app/api?username=yoon6763)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon6763&layout=compact)](https://github.com/yoon6763/github-readme-stats)
 
