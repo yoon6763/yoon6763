@@ -32,21 +32,21 @@
 
 </br>
 
-### 👋 Portfolio
+### 😺 Portfolio
 
 <a href = "https://tricolor-package-3b1.notion.site/e8945c2458394c0984bbd55c74b5846f"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> 
 
 </br>
 
-### ✏️ Tech Blog
+### 👻 Tech Blog
 
 <a href = "https://uknowblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eeeeee?style=flat-square&logo=tistory&logoColor=black"/></a>
 
 </br>
 
-### ✏️ Contact
+### 🤝 Contact
 
-email - yoon6763@naver.com
+e-mail | yoon6763@naver.com
     
 </br>
 </br>
