@@ -30,10 +30,23 @@
   
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/>
 
-</br></br>
-  
-### 👋 Contact
-<a href = "https://tricolor-package-3b1.notion.site/e8945c2458394c0984bbd55c74b5846f"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> <a href = "https://uknowblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eeeeee?style=flat-square&logo=tistory&logoColor=black"/></a>
+</br>
+
+### 👋 Portfolio
+
+<a href = "https://tricolor-package-3b1.notion.site/e8945c2458394c0984bbd55c74b5846f"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> 
+
+</br>
+
+### ✏️ Tech Blog
+
+<a href = "https://uknowblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eeeeee?style=flat-square&logo=tistory&logoColor=black"/></a>
+
+</br>
+
+### ✏️ Contact
+
+email - yoon6763@naver.com
     
 </br>
 </br>
